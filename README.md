@@ -19,8 +19,8 @@
 
 <a href="mailto:shekko777@mail.ru">Mail</a>
 
-<a href="(https://t.me/pershin_ivan)">Telegram</a>
+<a href="https://t.me/pershin_ivan">Telegram</a>
 
 <a href="mailto:shekko-777@yandex.ru">Yandex.Почта</a>
 
-<a href="(https://www.codewars.com/users/Shekko)">CodeWars</a>
+<a href="https://www.codewars.com/users/Shekko">CodeWars</a>
