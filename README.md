@@ -18,6 +18,9 @@
 Статус занятости: <span style="color: #FFE4B5;">В поисках работы</span>
 
 <a href="mailto:shekko777@mail.ru">Mail</a>
+
 <a href="(https://t.me/pershin_ivan)">Telegram</a>
+
 <a href="mailto:shekko-777@yandex.ru">Yandex.Почта</a>
+
 <a href="(https://www.codewars.com/users/Shekko)">CodeWars</a>
