@@ -16,6 +16,7 @@
 
 </pre>
 <img align="" width="100" src="assets/minecraft-campfire.gif" alt="gif_diamond">
+<img align="" width="70" src="assets/duck-minecraft.gif" alt="utka">
 <br>
 <br>
 
